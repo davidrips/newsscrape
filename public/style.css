@@ -1,0 +1,72 @@
+
+    body{
+    
+      background-color: #AEF5E6;
+    }
+    #wrapper{
+      width:960px;
+      margin: 0 auto;
+    
+    }
+    #heading{
+      width: 100%;
+      height: 120px;
+      text-align: center;
+      margin-bottom: 15px;
+    }
+    #articles{
+      width:55%;
+      height:700px;
+      display:inline-block;
+      overflow: auto;
+      clear:both;
+    }
+    #articles h3{
+      margin:auto;
+      clear: both;
+      text-align: center;
+    }
+    #titleinput{
+      height: 50px;
+    }
+    #notes {
+      width:25%;
+      float:right;
+    }
+    #artictitle{
+      margin-top: 0px;
+    }
+    #old {
+      width:20%;
+      float:left;
+      height:700px;
+      overflow: auto;
+    }
+    #old h3{
+      margin:auto;
+      clear: both;
+      text-align: center;
+    }
+
+    .oldnote{
+      margin:auto;
+      text-align: center;
+    }
+    button{
+      margin:auto;
+    }
+
+    textarea, input{
+      display:block;
+      width:100%;
+      background-color: #ADDAD0;
+    }
+    input{
+      height:36px;
+      font-size: 24px;
+    }
+    textarea{
+      height:200px;
+      font-size: 18px;
+    }
+
